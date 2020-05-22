@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5c4c254c-83d5-417c-af3c-bd453186ceb8">
+  <producedTypes>
+    <objectType typeId="6dc951eb-6014-4e47-bc0c-08f2cc7080cc" valueTypeId="99563649-1053-467c-b33e-5d8dc164d7c3"/>
+    <refType typeId="01bf01e3-fa90-43c6-84ba-ef21221d7d49" valueTypeId="7ec51786-0c64-4445-9373-fd2f30566656"/>
+    <selectionType typeId="5c2fabc1-a8dc-4b51-b5b3-d8086a87455a" valueTypeId="12c370ac-bd5a-49fe-8175-a99db8da3772"/>
+    <listType typeId="e88a233e-5053-4c94-b52d-40e937822087" valueTypeId="9a737523-1cf2-413a-9907-16d14b13c27c"/>
+    <managerType typeId="3a364b8a-3653-47f7-a57a-7edcc3a0a52f" valueTypeId="65ddc0a6-24ab-4c75-aaa0-13051b5474f9"/>
+  </producedTypes>
+  <name>тест</name>
+  <synonym>
+    <key>ru</key>
+    <value>тест</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.тест.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.тест.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
