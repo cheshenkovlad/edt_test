@@ -28,4 +28,5 @@
   <subsystems>Subsystem.Еда</subsystems>
   <catalogs>Catalog.тест</catalogs>
   <catalogs>Catalog.лол</catalogs>
+  <catalogs>Catalog.Контрагент</catalogs>
 </mdclass:Configuration>
